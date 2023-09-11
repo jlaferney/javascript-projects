@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jscode": "^0.0.1",
+    "vscode": "^1.1.34"
+  }
+}
